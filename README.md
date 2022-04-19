@@ -5,6 +5,8 @@
 
 ### 📝 Aufgabe:
 
+Erzeugt über einen ```Scanner``` oder einen ```BufferedReader``` eine eingabe Funktion für ein Programm. Über den Befehl ```time``` soll das Programm die aktuelle Uhrzeit ausgeben. Wenn ```exit``` eingegeben wird soll sich das Programm beenden.
+
 
 
 ### ℹ️ Resourcen:
